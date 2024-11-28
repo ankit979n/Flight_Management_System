@@ -77,6 +77,7 @@ The entity classes map to the database tables. Key entity classes include Flight
 The system provides a login page for users to access the system. New users can register as either administrators or customers.
 
 Login.jsp
+
  ![image](https://github.com/user-attachments/assets/a89c6cc4-f187-4ca4-9605-8dc3804ab53a)
 
 
