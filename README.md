@@ -91,12 +91,13 @@ The admin dashboard allows administrators to manage flights, routes, airports an
 
 5.3 Customer Interface
 Customers can search for flights, view available options, and book tickets. They can also view their booking history and cancel tickets if needed.
- ![image](https://github.com/user-attachments/assets/06e75bd1-abde-4058-afd3-51622140d449)
+![image](https://github.com/user-attachments/assets/7e9f32f2-10af-4a30-a62c-d1bf131d91f5)
+
 
 
 5.4 Error Handling and Alerts
 The system handles errors gracefully, displaying user-friendly messages and redirecting users to appropriate pages in case of errors (e.g., invalid routes or no flights available, no more seats available).
-![image](https://github.com/user-attachments/assets/7e9f32f2-10af-4a30-a62c-d1bf131d91f5)
+ ![image](https://github.com/user-attachments/assets/06e75bd1-abde-4058-afd3-51622140d449)
 
  
 
